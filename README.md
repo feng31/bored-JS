@@ -1,2 +1,2 @@
 # bored-JS
-微信商城
+仿vux的一个UI库
